@@ -4,6 +4,6 @@ public class Main {
         methodUser1();
     }
     public static void methodUser1() {
-        System.out.println("Method from User1");
+        System.out.println("Method from User11");
     }
 }

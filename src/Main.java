@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Method from User1(Vitaliy)");
     }
     public static void methodUser11() {
-        int randomNumber = (int)(Math.random() * 100); // число от 0 до 99
+        int randomNumber = (int)(Math.random() * 100);
 
         System.out.println("Another one method from User1 (Vitaliy)");
         System.out.println("Случайное число: " + randomNumber);

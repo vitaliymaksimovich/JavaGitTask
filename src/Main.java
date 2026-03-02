@@ -27,4 +27,10 @@ public class Main {
 
     System.out.println("Р§РёСЃР»Рѕ " + number + (isPrime ? " РїСЂРѕСЃС‚РѕРµ" : " РЅРµ РїСЂРѕСЃС‚РѕРµ"));
 }
+    public static void methodUser3() {  
+    System.out.println("Method from User3 (Julia)");
+    int randomValue = (int) (Math.random() * 50) + 1;  
+    System.out.println("Случайное число: " + randomValue + "Мяу мяу - я студент НИЯЯЯУ");
+}
+
 }
